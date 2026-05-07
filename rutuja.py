@@ -1,6 +1,6 @@
 # Assign values to variables
-a = 5
-b = 3
+a = 7
+b = 9
 
 # Calculate and print the sum
 print(a + b)
